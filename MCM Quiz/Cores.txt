@@ -1,0 +1,9 @@
+91, 155, 213 - Azul BB
+
+47, 80, 153 - Azul Escuro
+
+0, 112, 192 - Azul Médio
+
+192, 0, 0 - Vermelho
+
+0, 176, 80 - Verde Claro
